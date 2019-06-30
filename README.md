@@ -1,4 +1,4 @@
-# MarvelEncyclopedia
+# Marvel Encyclopedia
 
 
 Marvel Encyclopedia is a website that will contain all of the important information centered around the Marvel Cinematic Universe(MCU). 
